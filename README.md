@@ -19,17 +19,20 @@ This is a Spring Boot web application integrated with Thymeleaf for server-side 
 
 **Installation & Execution Steps**
 **1. Clone the repository:**
-![Screenshot 2024-10-08 131041](https://github.com/user-attachments/assets/97d021ec-22f2-4d69-b935-a7e1daa1504f)
+
+* ![Screenshot 2024-10-08 131041](https://github.com/user-attachments/assets/97d021ec-22f2-4d69-b935-a7e1daa1504f)
 
 **2. Configure the MySQL Database:**
 * Create a MySQL database and update the application.properties file with your database credentials:
 ![Screenshot 2024-10-08 131151](https://github.com/user-attachments/assets/2c9c03f9-09fd-488c-bf0f-6af8e1b6b957)
 
 **3. Build the project:**
-![Screenshot 2024-10-08 131533](https://github.com/user-attachments/assets/ff749b41-e190-4cd0-9f22-8cfba88f8051)
+
+* ![Screenshot 2024-10-08 131533](https://github.com/user-attachments/assets/ff749b41-e190-4cd0-9f22-8cfba88f8051)
 
 **4. Run the application:**
-![Screenshot 2024-10-08 131713](https://github.com/user-attachments/assets/0db1c9c4-7a52-431d-84d6-ee59873398fd)
+
+* ![Screenshot 2024-10-08 131713](https://github.com/user-attachments/assets/0db1c9c4-7a52-431d-84d6-ee59873398fd)
 
 **5. Access the application:** Open your browser and navigate to http://localhost:8080.
 
